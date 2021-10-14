@@ -1,9 +1,19 @@
-Hi there, 👋
-I'm formisten a fellow developer!
-🎨 I’m currently working on my personal website
-🌱 I’m currently learning python 
-🤔 I’m looking for help with python and javascript(or any language)
-😄 Pronouns: he/him
-Languages I Know:
-🐍 Python
-🔆 HTML/CSS
+### Hi there, 👋
+## I'm Formisten | a fellow developer-
+
+### Just a guy who likes to code :)
+
+- 🎨 I’m currently working on my website
+- ✌ I’m currently learning python and javascript
+- 😐 I’m looking for help with python
+- 👨 Pronouns: he / him
+
+
+### Languages I Know
+
+- 🐍 Python (half)
+- 🔆 HTML/CSS
+- 🎮 Javascript( a little)
+
+---
+
