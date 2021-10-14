@@ -1,7 +1,9 @@
-Welcome to my profile! Im a 13 year old, currently enrolled in 7th grade. I look forward to my path of becoming a programmer. I only know html/css and a bit of javascript. Looking for tutorials on how to learn c#. Feel free to contact me for suggestions!
-
-My socials!
-Discord:   formisten#6272
-
-
-Discord server:  https://discord.gg/JZykZDaN
+Hi there, 👋
+I'm formisten a fellow developer!
+🎨 I’m currently working on my personal website
+🌱 I’m currently learning python 
+🤔 I’m looking for help with python and javascript(or any language)
+😄 Pronouns: he/him
+Languages I Know:
+🐍 Python
+🔆 HTML/CSS
